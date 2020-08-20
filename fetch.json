@@ -1,0 +1,37 @@
+[
+  {
+    "Address": "223,  Somehwere, on Earth",
+    "Age": "10",
+    "Gender": "Male",
+    "Name": "Ganesh Hosur",
+    "Phone": "9999999990"
+  },
+  {
+    "Address": "123,  Somehwere, on Earth",
+    "Age": "10",
+    "Gender": "Male",
+    "Name": "Manoj",
+    "Phone": "9298999690"
+  },
+  {
+    "Address": "991,  Somehwere, on Earth",
+    "Age": "12",
+    "Gender": "Male",
+    "Name": "Rahul",
+    "Phone": "9298999773"
+  },
+  {
+    "Address": "r",
+    "Age": "18 to 24",
+    "Gender": "male",
+    "Name": "w",
+    "Phone": "2"
+  },
+  {
+    "Address": "xrt",
+    "Age": "18 to 24",
+    "Gender": "female",
+    "Name": "Akash",
+    "Phone": "78880"
+  }
+]
